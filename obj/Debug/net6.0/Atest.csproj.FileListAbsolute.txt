@@ -1,0 +1,15 @@
+C:\Users\super\Desktop\Atest\bin\Debug\net6.0\Atest.exe
+C:\Users\super\Desktop\Atest\bin\Debug\net6.0\Atest.deps.json
+C:\Users\super\Desktop\Atest\bin\Debug\net6.0\Atest.runtimeconfig.json
+C:\Users\super\Desktop\Atest\bin\Debug\net6.0\Atest.dll
+C:\Users\super\Desktop\Atest\bin\Debug\net6.0\Atest.pdb
+C:\Users\super\Desktop\Atest\obj\Debug\net6.0\Atest.csproj.AssemblyReference.cache
+C:\Users\super\Desktop\Atest\obj\Debug\net6.0\Atest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Desktop\Atest\obj\Debug\net6.0\Atest.AssemblyInfoInputs.cache
+C:\Users\super\Desktop\Atest\obj\Debug\net6.0\Atest.AssemblyInfo.cs
+C:\Users\super\Desktop\Atest\obj\Debug\net6.0\Atest.csproj.CoreCompileInputs.cache
+C:\Users\super\Desktop\Atest\obj\Debug\net6.0\Atest.dll
+C:\Users\super\Desktop\Atest\obj\Debug\net6.0\refint\Atest.dll
+C:\Users\super\Desktop\Atest\obj\Debug\net6.0\Atest.pdb
+C:\Users\super\Desktop\Atest\obj\Debug\net6.0\Atest.genruntimeconfig.cache
+C:\Users\super\Desktop\Atest\obj\Debug\net6.0\ref\Atest.dll
